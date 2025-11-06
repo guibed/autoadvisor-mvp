@@ -1,0 +1,9 @@
+brand,model,year_range,topic,text
+Volkswagen,Golf 7,2013-2019,failure_points,"Common issues: DSG gearbox oil changes every 60k km, timing chain tensioner wear on early models, water pump leaks."
+Volkswagen,Golf 7,2013-2019,inspection,"Check service history for gearbox oil changes, inspect undercarriage for corrosion, verify all electronics and infotainment work."
+Peugeot,208,2015-2021,failure_points,"EP6 engine timing belt wear, clutch pedal stiffness on manual, minor electrical faults (lights, sensors)."
+Peugeot,208,2015-2021,inspection,"Inspect belt condition, test clutch bite point, confirm software updates applied."
+Renault,Clio 4,2012-2019,failure_points,"Injector leaks (diesel), steering column noise, minor suspension bush wear."
+Renault,Clio 4,2012-2019,inspection,"Check for injector smell under hood, inspect shock absorbers and bushings, verify service book stamped."
+Toyota,Yaris,2014-2020,failure_points,"Extremely reliable overall; minor recalls for airbag sensors; hybrid battery check after 8 years."
+Toyota,Yaris,2014-2020,inspection,"Verify hybrid battery warranty, ensure coolant system and brakes serviced on schedule."
